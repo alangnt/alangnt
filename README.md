@@ -12,8 +12,4 @@ A few things to know about me:
 
 🌌 Astronomy & Physics: I am also passionate about astronomy and physics. I love exploring the universe and understanding the laws that govern it. This scientific curiosity drives me to always learn more and stay at the forefront of knowledge in these areas.
 
-I am convinced that the combination of my technical skills in web development and my passion for Machine Learning and science will allow me to contribute significantly to your team. I am motivated, curious, and always ready to take on new challenges.
-
-Feel free to contact me if you have an apprenticeship opportunity or just want to chat about our shared passions!
-
 📧 geirnaert.alan@icloud.com
