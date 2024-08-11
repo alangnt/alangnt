@@ -2,7 +2,7 @@
 
 Hello everyone! 👋
 
-My name is Alan, and I am currently a Web Development student at OpenClassrooms. I am looking for a dynamic and innovative company where I can complete my apprenticeship and thus begin my professional training.
+My name is Alan, and I am currently a self-taught Web Developer and Data Scientist.
 
 # A few things to know about me:
 
