@@ -1,4 +1,4 @@
-🎓 Web Development Student | Passionate about AI and Machine Learning
+🎓 Data Scientist and Web Developer | Passionate about AI and Machine Learning
 
 Hello everyone! 👋
 
