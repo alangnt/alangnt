@@ -1,12 +1,12 @@
-🎓 Data Scientist and Web Developer | Passionate about AI and Machine Learning
+🎓 Data Scientist and Software Engineer/Web Developer | Passionate about AI, Machine Learning and Astronomy.
 
 Hello everyone! 👋
 
-My name is Alan, and I am currently a self-taught Web Developer and Data Scientist.
+My name is Alan, and I am currently a self-taught Software Engineer/Web Developer and Data Scientist.
 
 # A few things to know about me:
 
-💻 Web Development: My training at OpenClassrooms allows me to acquire solid skills in HTML, CSS, JavaScript, and many other web technologies. I particularly enjoy creating modern and responsive user interfaces and testing the limits of web languages.
+💻 Web Development: My personal projects allows me to acquire solid skills in HTML, CSS, JavaScript, and many other web technologies. I particularly enjoy creating modern and responsive user interfaces and testing the limits of web languages.
 
 🧠 Machine Learning & Python: Alongside my studies, I have a passion for application development and Machine Learning. Python is my language of choice, and I spend a lot of time learning and perfecting my skills in this truly fascinating field.
 
