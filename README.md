@@ -23,3 +23,7 @@ I believe my blend of technical expertise, scientific curiosity, and eagerness t
 Let’s build something extraordinary together!
 
 <a href="https://app.daily.dev/gntalan"><img src="https://api.daily.dev/devcards/v2/hdUeEu09Bztk8dkoupCa0.png?type=default&r=loc" width="356" alt="Alan's Dev Card"/></a>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@gntalan/30-nites-of-code)  
+  ![@gntalan #30NitesOfCode](https://www.codedex.io/api/petStatus?user=gntalan)
