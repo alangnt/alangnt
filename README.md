@@ -1,25 +1,91 @@
-🎓 𝗔𝘀𝗽𝗶𝗿𝗶𝗻𝗴 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗔𝘀𝘁𝗿𝗼𝗻𝗼𝗺𝘆, 𝗔𝗜, 𝗮𝗻𝗱 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
+# 👨‍🚀 Alan Geirnaert – Developer, Dreamer, Builder of Bold Ideas
 
-Hi there! 👋
+> “I don’t just code. I build systems, worlds, and futures.”
 
-I'm Alan, a dedicated 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁/𝗥𝗲𝗮𝗰𝘁 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 at OpenClassrooms, striving to turn my love for technology and science into impactful projects.
+Hi, I’m **Alan**, a full-stack developer with a passion for **AI**, **Astronomy**, and **Quantum tech**.
 
-𝗔 𝗯𝗶𝘁 𝗮𝗯𝗼𝘂𝘁 𝗺𝗲:
+Currently finishing my **MSc in Software Development**, interning full-time as a developer, and building experimental apps that blend **science, art, and software**. I live in France 🇫🇷, but I’m aiming for **Geneva 🇨🇭** and later **USA 🇺🇸** - to work on space, tech, and everything in between.
 
-💻 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
-I’ve built a solid foundation in 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, and other web technologies through hands-on training and personal projects. I thrive on creating 𝗺𝗼𝗱𝗲𝗿𝗻, 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝘃𝗲 𝘂𝘀𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲𝘀 and pushing the boundaries of what’s possible with web languages.
+---
 
-🧠 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 & 𝗣𝘆𝘁𝗵𝗼𝗻
-Beyond web development, I’m deeply intrigued by the potential of 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴. With 𝗣𝘆𝘁𝗵𝗼𝗻 as my go-to language, I’m continually honing my skills in this transformative field and exploring how it intersects with real-world applications.
+## 🚀 What I’m Doing Now
 
-🌌 𝗔𝘀𝘁𝗿𝗼𝗻𝗼𝗺𝘆 & 𝗣𝗵𝘆𝘀𝗶𝗰𝘀
-I’m also captivated by the wonders of 𝗮𝘀𝘁𝗿𝗼𝗻𝗼𝗺𝘆 and 𝗽𝗵𝘆𝘀𝗶𝗰𝘀. My curiosity about the universe and its laws inspires me to keep learning, embracing both technical and scientific challenges with enthusiasm.
+🧠 **NeuroVerse**  
+→ AI productivity engine powered by *digital versions of yourself*. Think multiple versions of you giving daily guidance.
 
-𝗪𝗵𝘆 𝗰𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲?
-I believe my blend of technical expertise, scientific curiosity, and eagerness to learn equips me to make meaningful contributions to any team. Whether it's collaborating on cutting-edge projects or exchanging ideas about shared passions, I’m always excited to connect.
+🔐 **QSecure (Quantum Startup)**  
+→ Generates encryption keys using **real Q# qubit logic**. Custom API, live & tested.
 
-📧 Feel free to reach out: alan.geirnaert@icloud.com
+🌌 **Retinuum**  
+→ Hackathon-ready platform that turn memories & dreams into **AI-generated NFTs**, stored immutably.
 
-Let’s build something extraordinary together!
+🧪 **GitPortal**  
+→ Discover & share open-source projects faster. Tag-based search, upvotes, and a Chrome extension.
 
-<a href="https://app.daily.dev/gntalan"><img src="https://api.daily.dev/devcards/v2/hdUeEu09Bztk8dkoupCa0.png?type=default&r=loc" width="356" alt="Alan's Dev Card"/></a>
+🗣️ **Silent Converse**  
+→ Lip-reading chatbot that lets you talk silently in public. Built with **Groq AI** + **ElevenLabs voice**.
+
+---
+
+## 🛠️ My Stack
+
+**Languages**  
+JavaScript · TypeScript · Python · C++ · C# · Q# · Java
+
+**Frontend**  
+Next.js · Angular · React · TailwindCSS · Ionic · Three.js
+
+**Backend & DevOps**  
+Node.js · MongoDB · Express · Docker · Vercel · Railway · Firebase
+
+**AI / Data / Quantum**  
+OpenAI API · Groq SDK · ElevenLabs · Puppeteer · Q# · TensorFlow.js
+
+**Other Tools**  
+Git · Linux (Arch btw 🐧) · Bash · Storybook · Notion · Postman
+
+---
+
+## 🌌 Fields I Want to Impact
+
+- 🛰️ **SpaceTech & Astronomy** – I want to work with JAXA, NASA, or CERN. Even if it’s just one mission.
+- 🧬 **AI & Quantum Engineering** – Building smarter systems, faster decision tools, and secure apps.
+- 📚 **EdTech & Gamified Learning** – Learning should feel like a game, not a grind.
+
+---
+
+## 💡 Hackathon Highlights
+
+🏆 **2024 Codédex Holiday Hackathon** – Best 'Dot-Com Boom' Hack: 1st
+🏆 **2024 NASA Space Apps Challenge** – Global Nominee, Best Use of Data (Zurich 🇨🇭)
+🏁 **Vercel AI Week** – Groq-powered AI projects  
+🎮 Always building & experimenting at hackathons, online or IRL
+
+---
+
+## 🗾 What’s Next
+
+- 📚 Getting ready for the 2026 **Google Summer of Code** with CERN (hopefully) 
+- 🇺🇸 Preparing to build my future **career in the United States**  
+- 🧪 Turning my weird science-based app ideas into reality  
+- 🧙‍♂️ Becoming someone even senior devs come to for help
+
+---
+
+## 🤝 Let’s Work Together
+
+Are you looking for someone who:
+- Thinks **10x bigger**
+- Delivers fast and learns even faster
+- Turns ambitious sci-fi ideas into actual software
+
+Let’s build something wild.
+
+📩 **geirnaert.alan@icloud.com**  
+🌐 [LinkedIn](https://www.linkedin.com/in/alan-geirnaert) | [X/Twitter](https://x.com/gnt_alan) | [Portfolio](https://alangeirnaert.ch)
+
+---
+
+<a href="https://app.daily.dev/gntalan">
+  <img src="https://api.daily.dev/devcards/v2/hdUeEu09Bztk8dkoupCa0.png?type=default&r=loc" width="356" alt="Alan's Dev Card"/>
+</a>
