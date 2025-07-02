@@ -56,17 +56,14 @@ Git · Linux (Arch btw 🐧) · Bash · Storybook · Notion · Postman
 
 ## 💡 Hackathon Highlights
 
-🏆 **2024 Codédex Holiday Hackathon** – Best 'Dot-Com Boom' Hack: 1st
-🏆 **2024 NASA Space Apps Challenge** – Global Nominee, Best Use of Data (Zurich 🇨🇭)
-🏁 **Vercel AI Week** – Groq-powered AI projects  
-🎮 Always building & experimenting at hackathons, online or IRL
+- 🏆 **2024 Codédex Holiday Hackathon** – Best 'Dot-Com Boom' Hack: 1st place
+- 🏆 **2024 NASA Space Apps Challenge** – Global Nominee, Best Use of Data (Zurich 🇨🇭)
 
 ---
 
 ## 🗾 What’s Next
 
 - 📚 Getting ready for the 2026 **Google Summer of Code** with CERN (hopefully) 
-- 🇺🇸 Preparing to build my future **career in the United States**  
 - 🧪 Turning my weird science-based app ideas into reality  
 - 🧙‍♂️ Becoming someone even senior devs come to for help
 
