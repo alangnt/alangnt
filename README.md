@@ -4,7 +4,7 @@
 
 Hi, I’m **Alan**, a full-stack developer with a passion for **AI**, **Astronomy**, and **Quantum tech**.
 
-Currently finishing my **MSc in Software Development**, interning full-time as a developer, and building experimental apps that blend **science, art, and software**. I live in France 🇫🇷, but I’m aiming for **Geneva 🇨🇭** and later **USA 🇺🇸** - to work on space, tech, and everything in between.
+Currently finishing my **MSc in Software Development**, interning full-time as a developer, and building experimental apps that blend **science, art, and software**. I live in France 🇫🇷, but I’m aiming for **Switzerland 🇨🇭**, to work on space, physics, tech, and everything in between.
 
 ---
 
