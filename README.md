@@ -1,88 +1,86 @@
-# 👨‍🚀 Alan Geirnaert – Developer, Dreamer, Builder of Bold Ideas
-
+# 👨‍🚀 Alan Geirnaert — Developer, Dreamer, Builder of Bold Ideas  
 > “I don’t just code. I build systems, worlds, and futures.”
 
-Hi, I’m **Alan**, a full-stack developer with a passion for **AI**, **Astronomy**, and **Quantum tech**.
+Hi, I’m **Alan**, a Full-Stack Software Developer obsessed with **AI**, **Astronomy**, and **Quantum tech**.
+Currently finishing my **MSc in Software Development** and working full-time as a full-stack developer while building experimental apps that merge **science, art, and software**.
 
-Currently finishing my **MSc in Software Development**, interning full-time as a developer, and building experimental apps that blend **science, art, and software**. I live in France 🇫🇷, but I’m aiming for **Switzerland 🇨🇭**, to work on space, physics, tech, and everything in between.
-
----
-
-## 🚀 What I’m Doing Now
-
-🧠 **NeuroVerse**  
-→ AI productivity engine powered by *digital versions of yourself*. Think multiple versions of you giving daily guidance.
-
-🔐 **QSecure (Quantum Startup)**  
-→ Generates encryption keys using **real Q# qubit logic**. Custom API, live & tested.
-
-🌌 **Retinuum**  
-→ Hackathon-ready platform that turn memories & dreams into **AI-generated NFTs**, stored immutably.
-
-🧪 **GitPortal**  
-→ Discover & share open-source projects faster. Tag-based search, upvotes, and a Chrome extension.
-
-🗣️ **Silent Converse**  
-→ Lip-reading chatbot that lets you talk silently in public. Built with **Groq AI** + **ElevenLabs voice**.
+I’m based in 🇫🇷 (near Switzerland 🇨🇭), preparing to join the **Swiss innovation and space ecosystem**.
 
 ---
 
-## 🛠️ My Stack
+## 🚀 Featured Projects
 
-**Languages**  
-JavaScript · TypeScript · Python · C++ · C# · Q# · Java
-
-**Frontend**  
-Next.js · Angular · React · TailwindCSS · Ionic · Three.js
-
-**Backend & DevOps**  
-Node.js · MongoDB · Express · Docker · Vercel · Railway · Firebase
-
-**AI / Data / Quantum**  
-OpenAI API · Groq SDK · ElevenLabs · Puppeteer · Q# · TensorFlow.js
-
-**Other Tools**  
-Git · Linux (Arch btw 🐧) · Bash · Storybook · Notion · Postman
+### 📚 [Papermind](https://papermind.ch)
+> A **scientific research explorer** powered by AI and vector search.  
+> Fetches papers from **arXiv**, and helps researchers and students discover insights faster.  
+**Stack:** Next.js · FastAPI · MongoDB Vector Search · OpenAI API · Docker · Vercel
 
 ---
 
-## 🌌 Fields I Want to Impact
-
-- 🛰️ **SpaceTech & Astronomy** – I want to work with JAXA, NASA, or CERN. Even if it’s just one mission.
-- 🧬 **AI & Quantum Engineering** – Building smarter systems, faster decision tools, and secure apps.
-- 📚 **EdTech & Gamified Learning** – Learning should feel like a game, not a grind.
+### 🧠 [NeuroVerse](https://neuro-verse.tech)
+> **AI productivity engine** powered by digital versions of yourself.  
+> Multiple “you” (Ambitious, Balanced, Wise...) analyze your habits and guide you with daily insights.  
+**Stack:** Next.js · Groq SDK · MongoDB · Vercel AI SDK
 
 ---
 
-## 💡 Hackathon Highlights
+### 🧪 [GitPortal](https://gitportal.org)
+> The **gateway to open-source**: discover and share public GitHub projects faster.  
+> Features **AI-powered tagging**, upvotes, bookmarks, and a shareable card generator.  
+**Stack:** Next.js · TypeScript · Puppeteer · MongoDB
 
-- 🏆 **2024 Codédex Holiday Hackathon** – Best 'Dot-Com Boom' Hack: 1st place
-- 🏆 **2024 NASA Space Apps Challenge** – Global Nominee, Best Use of Data (Zurich 🇨🇭)
+---
+
+## 🛠️ My Tech Stack
+
+| Category | Tools |
+|-----------|--------|
+| **Languages** | JavaScript · TypeScript · Python · C/C++ · Q# · Java |
+| **Frontend** | Next.js · Angular · React · TailwindCSS · Ionic · Three.js |
+| **Backend** | Node.js · Express · MongoDB · FastAPI · Spring Boot · Docker · Firebase · Railway |
+| **AI / Quantum / Automation** | OpenAI API · Groq SDK · ElevenLabs · Puppeteer · TensorFlow |
+| **Other Tools** | Git · Linux · Postman · Storybook · Notion |
+
+---
+
+## 🌌 What I Want to Impact
+
+- 🛰️ **SpaceTech & Astronomy** – working with NASA, JAXA, or CERN (even once would be worth it)  
+- 🧬 **AI & Quantum Engineering** – smarter systems, secure infrastructures, faster decision tools  
+- 🎮 **Gamified Learning** – because learning should feel like a game, not a grind  
+
+---
+
+## 🏆 Hackathon Highlights
+
+- 🎤 **Speaker @ NASA Space Apps 2025 (Lucerne)** — *“From Hackathons to the Stars”*  
+- 🥇 **NASA Space Apps Challenge 2024 (Zurich)** — *Global Nominee + Best Use of Data*  
+- 🥇 **Codédex Winter Hackathon 2024** — *Best Dot-Com Boom Project*  
 
 ---
 
 ## 🗾 What’s Next
 
-- 📚 Getting ready for the 2026 **Google Summer of Code** with CERN (hopefully) 
-- 🧪 Turning my weird science-based app ideas into reality  
-- 🧙‍♂️ Becoming someone even senior devs come to for help
+- 💡 Preparing for **Google Summer of Code 2026 with CERN**  
+- ⚛️ Expanding my **Quantum + AI projects** under Qelix  
+- 🌍 Building tools that merge **curiosity, creativity, and code**
 
 ---
 
-## 🤝 Let’s Work Together
+## 🤝 Let’s Connect
 
-Are you looking for someone who:
-- Thinks **10x bigger**
-- Delivers fast and learns even faster
-- Turns ambitious sci-fi ideas into actual software
-
-Let’s build something wild.
-
-📩 **geirnaert.alan@icloud.com**  
-🌐 [LinkedIn](https://www.linkedin.com/in/alan-geirnaert) | [X/Twitter](https://x.com/gnt_alan) | [Portfolio](https://alangeirnaert.ch)
+📫 **geirnaert.alan@icloud.com**  
+🌐 [Portfolio](https://alangeirnaert.ch)  
+💼 [LinkedIn](https://www.linkedin.com/in/alan-geirnaert)  
+🐦 [X/Twitter](https://x.com/gnt_alan)  
+🎓 [Swiss Engineering Member](https://swissengineering.ch)
 
 ---
 
 <a href="https://app.daily.dev/gntalan">
   <img src="https://api.daily.dev/devcards/v2/hdUeEu09Bztk8dkoupCa0.png?type=default&r=loc" width="356" alt="Alan's Dev Card"/>
 </a>
+
+---
+
+⭐️ *“From hackathons to the stars - one repo at a time.”*
