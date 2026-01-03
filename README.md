@@ -1,7 +1,6 @@
-# 👨‍🚀 Alan Geirnaert — Developer, Dreamer, Builder of Bold Ideas  
-> “I don’t just code. I build systems, worlds, and futures.”
+# 👨‍🚀 Alan Geirnaert | Developer, Dreamer, Builder
 
-Hi, I’m **Alan**, a Full-Stack Software Developer obsessed with **AI**, **Astronomy**, and **Quantum tech**.
+Hi, I’m **Alan**, a Software Engineer obsessed with **Space**, **Tech**, and **Quantum Physics**.
 Currently finishing my **MSc in Software Development** and working full-time as a full-stack developer while building experimental apps that merge **science, art, and software**.
 
 I’m based in 🇫🇷 (near Switzerland 🇨🇭), preparing to join the **Swiss innovation and space ecosystem**.
