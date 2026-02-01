@@ -8,26 +8,26 @@ I’m based in 🇫🇷 (near Switzerland 🇨🇭), preparing to join the **Swi
 ## Featured Projects
 
 ### [Papermind](https://papermind.ch)
-- A **scientific research explorer** powered by AI and vector search.  
-- Fetches papers from **arXiv**, and helps researchers and students discover insights faster.  
-**Stack:** Next.js · Groq SDK · MongoDB · Vercel
+> A **scientific research explorer** powered by AI and vector search.  
+> Fetches papers from **arXiv**, and helps researchers and students discover insights faster.  
+> **Stack:** Next.js · Groq SDK · MongoDB · Vercel
 
 ---
 
 ### [GitPortal](https://gitportal.org)
-- The **gateway to open-source**: discover and share public GitHub projects faster.  
-- Features **AI-powered tagging**, upvotes, bookmarks, and a shareable card generator.  
-**Stack:** Next.js · Groq SDK · MongoDB · Vercel
+> The **gateway to open-source**: discover and share public GitHub projects faster.  
+> Features **AI-powered tagging**, upvotes, bookmarks, and a shareable card generator.  
+> **Stack:** Next.js · Groq SDK · MongoDB · Vercel
 
 ---
 
 ### [Project Lotus](https://project-lotus-8pfq.vercel.app)
-- A serene and efficient platform designed to **elevate your study sessions**. 
-**Stack:** Next.js · MongoDB · Vercel
+> A serene and efficient platform designed to **elevate your study sessions**. 
+> **Stack:** Next.js · MongoDB · Vercel
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 | Category | Tools |
 |-----------|--------|
