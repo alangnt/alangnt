@@ -48,17 +48,9 @@ I’m based in 🇫🇷 (near Switzerland 🇨🇭), preparing to join the **Swi
 
 ## Let’s Connect
 
-**geirnaert.alan@icloud.com**  
 [Portfolio](https://alangeirnaert.ch)  
 [LinkedIn](https://www.linkedin.com/in/alan-geirnaert)  
 [X/Twitter](https://x.com/gnt_alan)  
-[Swiss Engineering Member](https://swissengineering.ch)
-
----
-
-<a href="https://app.daily.dev/gntalan">
-  <img src="https://api.daily.dev/devcards/v2/hdUeEu09Bztk8dkoupCa0.png?type=default&r=loc" width="356" alt="Alan's Dev Card"/>
-</a>
 
 ---
 
