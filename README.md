@@ -7,6 +7,13 @@ I’m based in 🇫🇷 (near Switzerland 🇨🇭), preparing to join the **Swi
 
 ## Featured Projects
 
+### [Goldilocks Search](https://goldilocks-search.vercel.app/)
+> An interactive **data science pipeline** and **3D web experience** analyzing over **6,000 exoplanets** from the NASA archive. 
+> Mathematically explores the **statistical rarity** of Earth-like worlds through immersive storytelling
+> **Stack:** Next.js · Python · Three.js (GLSL) · Scikit-learn · Vercel
+
+---
+
 ### [Papermind](https://papermind.ch)
 > A **scientific research explorer** powered by AI and vector search.  
 > Fetches papers from **arXiv**, and helps researchers and students discover insights faster.  
@@ -14,7 +21,7 @@ I’m based in 🇫🇷 (near Switzerland 🇨🇭), preparing to join the **Swi
 
 ---
 
-### [GitPortal](https://gitportal.org)
+### [GitPortal](https://gitportal.vercel.app)
 > The **gateway to open-source**: discover and share public GitHub projects faster.  
 > Features **AI-powered tagging**, upvotes, bookmarks, and a shareable card generator.  
 > **Stack:** Next.js · Groq SDK · MongoDB · Vercel
@@ -31,10 +38,10 @@ I’m based in 🇫🇷 (near Switzerland 🇨🇭), preparing to join the **Swi
 
 | Category | Tools |
 |-----------|--------|
-| **Languages** | JavaScript · TypeScript · Python |
+| **Languages** | JavaScript · TypeScript · Python · C++ · Java |
 | **Frontend** | Next.js · Angular · TailwindCSS |
 | **Backend** | Express · FastAPI · Docker · Railway · MongoDB |
-| **Other Tools** | Linux · Postman · Storybook · Notion API |
+| **Other Tools** | Linux · Postman · Storybook |
 
 ---
 
