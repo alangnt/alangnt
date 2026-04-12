@@ -15,7 +15,7 @@ I’m based in Anthy-sur-Léman 🇫🇷 (near Switzerland 🇨🇭).
       <h3>Goldilocks Search</h3>
       <p><i>Quantifying the statistical rarity of Earth-like worlds.</i></p>
       <p>An interactive 3D pipeline analyzing 6,100+ exoplanets using <b>Three.js</b> and <b>Scikit-learn</b>.</p>
-      <a href="https://youtu.be/gmhV24rXg7Q">▶️ Watch Mission Briefing</a>
+      <a href="https://youtu.be/gmhV24rXg7Q">▶️ Watch the YouTube video</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://papermind.ch">
@@ -24,7 +24,6 @@ I’m based in Anthy-sur-Léman 🇫🇷 (near Switzerland 🇨🇭).
       <h3>Papermind</h3>
       <p><i>Neural exploration of the scientific frontier.</i></p>
       <p>AI-powered research explorer utilizing <b>Vector Search</b> to navigate the arXiv archives at high velocity.</p>
-      <a href="https://papermind.ch">🔗 Access Archive</a>
     </td>
   </tr>
   <tr>
