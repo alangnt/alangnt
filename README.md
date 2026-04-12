@@ -10,7 +10,7 @@ I’m based in Anthy-sur-Léman 🇫🇷 (near Switzerland 🇨🇭).
   <tr>
     <td width="50%" valign="top">
       <a href="https://goldilocks-search.vercel.app">
-        <img src="https://raw.githubusercontent.com/alangnt/alangnt/blob/main/assets/goldilocks-banner.png" alt="Goldilocks Search" style="width:100%; border-radius:10px;">
+        <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/goldilocks-banner.png" alt="Goldilocks Search" style="width:100%; border-radius:10px;">
       </a>
       <h3>🔭 Goldilocks Search</h3>
       <p><i>Quantifying the statistical rarity of Earth-like worlds.</i></p>
@@ -19,7 +19,7 @@ I’m based in Anthy-sur-Léman 🇫🇷 (near Switzerland 🇨🇭).
     </td>
     <td width="50%" valign="top">
       <a href="https://papermind.ch">
-        <img src="https://raw.githubusercontent.com/alangnt/alangnt/blob/main/assets/papermind-banner.png" alt="Papermind" style="width:100%; border-radius:10px;">
+        <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/papermind-banner.png" alt="Papermind" style="width:100%; border-radius:10px;">
       </a>
       <h3>🧠 Papermind</h3>
       <p><i>Neural exploration of the scientific frontier.</i></p>
@@ -30,7 +30,7 @@ I’m based in Anthy-sur-Léman 🇫🇷 (near Switzerland 🇨🇭).
   <tr>
     <td width="50%" valign="top">
       <a href="https://gitportal.vercel.app">
-        <img src="https://raw.githubusercontent.com/alangnt/alangnt/blob/main/assets/gitportal-banner.png" alt="GitPortal" style="width:100%; border-radius:10px;">
+        <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/gitportal-banner.png" alt="GitPortal" style="width:100%; border-radius:10px;">
       </a>
       <h3>🌌 GitPortal</h3>
       <p><i>The gateway to open-source systems.</i></p>
@@ -38,7 +38,7 @@ I’m based in Anthy-sur-Léman 🇫🇷 (near Switzerland 🇨🇭).
     </td>
     <td width="50%" valign="top">
       <a href="https://project-lotus-8pfq.vercel.app">
-        <img src="https://raw.githubusercontent.com/alangnt/alangnt/blob/main/assets/lotus-banner.png" alt="Project Lotus" style="width:100%; border-radius:10px;">
+        <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/lotus-banner.png" alt="Project Lotus" style="width:100%; border-radius:10px;">
       </a>
       <h3>🪷 Project Lotus</h3>
       <p><i>Optimizing cognitive environment for deep work.</i></p>
