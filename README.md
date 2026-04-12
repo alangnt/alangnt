@@ -12,7 +12,7 @@ I’m based in Anthy-sur-Léman 🇫🇷 (near Switzerland 🇨🇭).
       <a href="https://goldilocks-search.vercel.app">
         <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/goldilocks-banner.png" alt="Goldilocks Search" style="width:100%; border-radius:10px;">
       </a>
-      <h3>🔭 Goldilocks Search</h3>
+      <h3>Goldilocks Search</h3>
       <p><i>Quantifying the statistical rarity of Earth-like worlds.</i></p>
       <p>An interactive 3D pipeline analyzing 6,100+ exoplanets using <b>Three.js</b> and <b>Scikit-learn</b>.</p>
       <a href="https://youtu.be/gmhV24rXg7Q">▶️ Watch Mission Briefing</a>
@@ -21,7 +21,7 @@ I’m based in Anthy-sur-Léman 🇫🇷 (near Switzerland 🇨🇭).
       <a href="https://papermind.ch">
         <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/papermind-banner.png" alt="Papermind" style="width:100%; border-radius:10px;">
       </a>
-      <h3>🧠 Papermind</h3>
+      <h3>Papermind</h3>
       <p><i>Neural exploration of the scientific frontier.</i></p>
       <p>AI-powered research explorer utilizing <b>Vector Search</b> to navigate the arXiv archives at high velocity.</p>
       <a href="https://papermind.ch">🔗 Access Archive</a>
@@ -29,20 +29,20 @@ I’m based in Anthy-sur-Léman 🇫🇷 (near Switzerland 🇨🇭).
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/alangnt/entropy_universe">
+        <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/nbody-banner.png" alt="Project Lotus" style="width:100%; border-radius:10px;">
+      </a>
+      <h3>Entropy Universe</h3>
+      <p><i>High-performance N-body gravitational simulation.</i></p>
+      <p>A precision C++ engine utilizing Barnes-Hut spatial partitioning to model the complex orbital dynamics of 1,000 celestial bodies in real-time.<p>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://gitportal.vercel.app">
         <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/gitportal-banner.png" alt="GitPortal" style="width:100%; border-radius:10px;">
       </a>
-      <h3>🌌 GitPortal</h3>
+      <h3>GitPortal</h3>
       <p><i>The gateway to open-source systems.</i></p>
       <p>Discover and tag public GitHub projects faster with <b>Groq SDK</b> and an intelligent indexing engine.</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://project-lotus-8pfq.vercel.app">
-        <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/lotus-banner.png" alt="Project Lotus" style="width:100%; border-radius:10px;">
-      </a>
-      <h3>🪷 Project Lotus</h3>
-      <p><i>Optimizing cognitive environment for deep work.</i></p>
-      <p>A serene study platform designed to reduce entropy and maximize focus during long-duration missions.</p>
     </td>
   </tr>
 </table>
