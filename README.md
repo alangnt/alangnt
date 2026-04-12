@@ -75,12 +75,16 @@ I’m based in Anthy-sur-Léman 🇫🇷 (near Switzerland 🇨🇭).
 
 <table>
   <tr>
-    <a href="https://www.linkedin.com/in/alan-geirnaert">
-      <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/socials/in-logo.png" alt="Official LinkedIn logo" style="width:100%; border-radius:10px;">
-    </a>
-    <a href="https://x.com/gnt_alan">
-      <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/socials/x-logo.png" alt="Official X logo" style="width:100%; border-radius:10px;">
-    </a>
+    <td width="10%" valign="top">
+      <a href="https://www.linkedin.com/in/alan-geirnaert">
+        <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/socials/in-logo.png" alt="Official LinkedIn logo" style="width:100%; border-radius:10px;">
+      </a>
+    </td>
+    <td width="10%" valign="top">
+      <a href="https://x.com/gnt_alan">
+        <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/socials/x-logo.png" alt="Official X logo" style="width:100%; border-radius:10px;">
+      </a>
+    </td>
   </tr>
 </table>
 
