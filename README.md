@@ -29,7 +29,7 @@ I’m based in Anthy-sur-Léman 🇫🇷 (near Switzerland 🇨🇭).
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/alangnt/entropy_universe">
-        <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/nbody-banner.png" alt="Project Lotus" style="width:100%; border-radius:10px;">
+        <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/nbody-banner.png" alt="Entropy Universe" style="width:100%; border-radius:10px;">
       </a>
       <h3>Entropy Universe</h3>
       <p><i>High-performance N-body gravitational simulation.</i></p>
@@ -72,8 +72,17 @@ I’m based in Anthy-sur-Léman 🇫🇷 (near Switzerland 🇨🇭).
 ## Let’s Connect
 
 [Portfolio](https://alangeirnaert.ch)
-[LinkedIn](https://www.linkedin.com/in/alan-geirnaert)
-[X/Twitter](https://x.com/gnt_alan)
+
+<table>
+  <tr>
+    <a href="https://www.linkedin.com/in/alan-geirnaert">
+      <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/socials/in-logo.png" alt="Official LinkedIn logo" style="width:100%; border-radius:10px;">
+    </a>
+    <a href="https://x.com/gnt_alan">
+      <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/socials/x-logo.png" alt="Official X logo" style="width:100%; border-radius:10px;">
+    </a>
+  </tr>
+</table>
 
 ---
 
