@@ -64,7 +64,7 @@ I’m based in Anthy-sur-Léman 🇫🇷 (near Switzerland 🇨🇭).
 
 ## Highlights
 
-- **Codédex 2026 Febrary Data Science Challenge** - *Best Data Visualization project*
+- **Codédex 2026 February Data Science Challenge** - *Best Data Visualization project*
 - **Speaker @ NASA Space Apps 2025 (Lucerne)** - *“From Hackathons to the Stars”*  
 - **NASA Space Apps Challenge 2024 (Zurich)** - *Global Nominee + Best Use of Data*  
 - **Codédex Winter Hackathon 2024** - *Best Dot-Com Boom Project*  
