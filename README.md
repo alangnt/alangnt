@@ -2,6 +2,8 @@ Hi 👋🏼 My name is **Alan** and I'm a Scientific Software Engineer, working 
 
 I’m based in Anthy-sur-Léman 🇫🇷 (near Switzerland 🇨🇭).
 
+⭐️ *“Ad Astra per Aspera”*
+
 ---
 
 ## Featured Projects
@@ -71,23 +73,8 @@ I’m based in Anthy-sur-Léman 🇫🇷 (near Switzerland 🇨🇭).
 
 ## Let’s Connect
 
-[Portfolio](https://alangeirnaert.ch)
-
-<table>
-  <tr>
-    <td width="1%" valign="top">
-      <a href="https://www.linkedin.com/in/alan-geirnaert" style="border-radius:10px; overflow: hidden;">
-        <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/socials/in-logo.png" alt="Official LinkedIn logo" style="width:100%;">
-      </a>
-    </td>
-    <td width="1%" valign="top">
-      <a href="https://x.com/gnt_alan" style="border-radius:10px; overflow: hidden;">
-        <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/socials/x-logo.png" alt="Official X logo" style="width:100%;">
-      </a>
-    </td>
-  </tr>
-</table>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://alangeirnaert.ch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-geirnaert)
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gnt_alan)
 
 ---
-
-⭐️ *“Ad Astra per Aspera”*
