@@ -52,10 +52,11 @@ I’m based in Anthy-sur-Léman 🇫🇷 (near Switzerland 🇨🇭).
 
 | Category | Tools |
 |-----------|--------|
-| **Languages** | JavaScript · TypeScript · Python · C++ · Java |
-| **Frontend** | Next.js · Angular · TailwindCSS |
-| **Backend** | Express · FastAPI · Docker · Railway · MongoDB |
-| **Other Tools** | Linux · Postman · Storybook |
+| **Current Focus** | C++, Python, LLMs |
+| **Languages** | JS/TS, Python, C++, Java |
+| **Frontend** | Next.js, Angular, TailwindCSS |
+| **Backend** | Express, FastAPI, Docker, Railway, MongoDB |
+| **Other Tools** | Linux, Postman, Storybook |
 
 ---
 
@@ -70,10 +71,10 @@ I’m based in Anthy-sur-Léman 🇫🇷 (near Switzerland 🇨🇭).
 
 ## Let’s Connect
 
-[Portfolio](https://alangeirnaert.ch)  
-[LinkedIn](https://www.linkedin.com/in/alan-geirnaert)  
-[X/Twitter](https://x.com/gnt_alan)  
+[Portfolio](https://alangeirnaert.ch)
+[LinkedIn](https://www.linkedin.com/in/alan-geirnaert)
+[X/Twitter](https://x.com/gnt_alan)
 
 ---
 
-⭐️ *“From hackathons to the stars - one repo at a time.”*
+⭐️ *“Ad Astra per Aspera”*
