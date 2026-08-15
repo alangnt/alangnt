@@ -33,7 +33,7 @@ I’m based in Anthy-sur-Léman 🇫🇷 (near Switzerland 🇨🇭).
       <a href="https://github.com/alangnt/entropy_universe">
         <img src="https://raw.githubusercontent.com/alangnt/alangnt/main/assets/nbody-banner.png" alt="Entropy Universe" style="width:100%; border-radius:10px;">
       </a>
-      <h3>Entropy Cosmos</h3>
+      <h3>EntropyCosmos</h3>
       <p><i>High-performance N-body gravitational simulation.</i></p>
       <p>A precision C++ engine utilizing Barnes-Hut spatial partitioning to model the complex orbital dynamics of 1,000 celestial bodies in real-time.<p>
     </td>
